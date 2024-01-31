@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#yell{
+    background: #6F66E8
+}
+.btn:hover{
+    color: rgb(4, 7, 6);
+
+}
+#button-addon1 {
+    background: #904FF2;
+}
+#button-addon2 {
+    background: #6F66E8;
+}
+#button-addon3 {
+    background: #584DEE;
+}
+
+#button-addon1:hover{
+    background: rgb(94, 138, 153);
+}
+
+#button-addon2:hover{
+    background: rgb(255, 146, 146);
+}
+#button-addon3:hover{
+    background: rgb(233, 213, 99);
+}     
+#button-addon1,
+#button-addon2,
+#button-addon3{
+    box-shadow: 3px 3px rgb(0, 0, 0);
+}
